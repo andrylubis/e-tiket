@@ -1,2 +1,2 @@
-# e-tiket
-front end home page e-tiket
+# eTiket
+Front End Home Page eTiket
